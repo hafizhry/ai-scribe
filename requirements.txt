@@ -10,3 +10,5 @@ streamlit
 pandas
 numpy
 google-cloud-speech
+portaudio19-dev
+python3-pyaudio
