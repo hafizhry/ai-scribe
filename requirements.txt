@@ -1,0 +1,12 @@
+langchain
+openai
+tiktoken
+langchain-community
+langchain-openai
+pydub
+pyaudio
+SpeechRecognition
+streamlit
+pandas
+numpy
+google-cloud-speech
