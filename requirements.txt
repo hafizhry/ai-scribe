@@ -9,4 +9,3 @@ SpeechRecognition
 streamlit
 pandas
 numpy
-portaudio19-dev
